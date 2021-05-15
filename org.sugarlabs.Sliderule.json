@@ -1,9 +1,9 @@
 {
     "app-id": "org.sugarlabs.Sliderule",
     "base": "org.sugarlabs.BaseApp",
-    "base-version": "20.04",
+    "base-version": "21.04",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "3.36",
+    "runtime-version": "40",
     "sdk": "org.gnome.Sdk",
     "separate-locales": false,
     "command": "sugarapp",
@@ -26,7 +26,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/sugarlabs/slideruler.git",
-                    "commit": "fe56f0fc579c54b77dde43b3d60b5afbbe177035"
+                    "commit": "29286797cb633bb349af8f5fcf359e6ac32c2449"
                 },
                 {
                     "type": "patch",
