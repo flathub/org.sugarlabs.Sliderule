@@ -26,7 +26,12 @@
                 {
                     "type": "git",
                     "url": "https://github.com/sugarlabs/slideruler.git",
-                    "commit": "29286797cb633bb349af8f5fcf359e6ac32c2449"
+                    "tag": "v36",
+                    "commit": "2854f91715b7a7b0e9d43bb3c0d2cfaa4dc849a9",
+                    "x-checker-data": {
+                        "type": "git",
+                        "tag-pattern": "^v([\\d.]+)$"
+                    }
                 },
                 {
                     "type": "patch",
